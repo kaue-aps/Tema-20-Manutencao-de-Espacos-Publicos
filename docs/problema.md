@@ -19,9 +19,12 @@ Apresentar:
 
 ## Contexto
 
-Os cidadãos de um determinado município do Cariri
+Inúmeros problemas urbanos (buracos em vias públicas, iluminação defeituosa, vazamentos, acúmulo de
+lixo, danos em equipamentos urbanos, ...) existem simultaneamente, no entanto, a cobertura desses problemas é inadequada.
 
 ## Justificativa
+
+A falta de transparência e os vários canais distintos que tentam dispersar informações sobre tais problemas são os principais entraves para que essa cobertura seja realizada de forma eficiente e estável.
 
 ## Público-alvo (stakeholders)
 
