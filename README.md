@@ -11,20 +11,27 @@ Marcos Vinicius Tavares Batista\
 Miguel Macedo Ferreira\
 Tadeu Coêlho de Vasconcelos
 
-## Funções:
-Alysson Davi: Criação de protótipos de nível inicial e médio\
-Arthur Barros: Descrição do problema\
-Edson Oliveira: Engenheiro de requisitos\
-Kauê Aparecido: Criação de user stories e product backlog\
-Marcos Vinicius: Criação de protótipo de alta fidelidade\
-Miguel Macedo: Gestão do repositório\
+## Atribuições dos membros:
+**Alysson Davi**: Criação de protótipos de nível inicial e médio\
+**Arthur Barros**: Engenheiro de requisitos\
+**Kauê Aparecido: Criação de user stories e product backlog\
+**Marcos Vinicius**: Criação de protótipo de alta fidelidade\
+**Miguel Macedo**: Organização dos kanbans e do readme\
 Tadeu Coêlho: Criação de personas e mapeamento de usuário
 
-## Justificativa scrumban:
+## Justificativa Scrum ou Kanban?
+No presente projeto aproveitamos as qualidades de ambos os métodos, dividindo o trabalho em **2 sprints de 2 semanas de duração cada**, com cada sprint possuindo um quadro kanban para controle de fluxo.
+
+A partição das user stories **não seguiu um padrão quantitativo** (1/2 das US em cada sprint), mas foram consideradas a **prioridade** de cada uma e sua respectiva **complexidade** estimada em story points.
+
+No kanban da sprint 1 foram selecionadas todas as user stories de **prioridade M e S**, somando 25 story points ao todo. Enquanto no kanban da sprint 2 foram selecionadas as user stories de **prioridade C e W**, totalizando 31 story points.
+
+Desse modo, buscou-se fazer uma distribuição justa de user stories levando em conta primeiro a prioridade e depois o equilíbrio de story points entre as sprints.
 
 ## Organização do repositório:
  Esse repositório está organizado em três diretórios principais:\
- Docs: Esse diretório contém markdowns com user stories, personas, e outras partes do projeto escrito em texto\
- Evidências: Contém evidências de partes do projeto sendo feitas\
- Protótipos: Contém os protótipos 
+
+ **docs:** contém os arquivos markdown com user stories, personas, e outras partes do projeto escritas de forma detalhada\
+ **evidencias:** contém evidências de partes do projeto desenvolvidas ao longo do tempo\
+ **protótipos:** contém um arquivo markdown simplificado com todos os protótipos + subdiretórios com os arquivos avulsos.
  
