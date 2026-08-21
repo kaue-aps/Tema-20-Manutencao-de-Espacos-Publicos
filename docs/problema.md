@@ -19,30 +19,30 @@ Apresentar:
 
 ## Contexto
 
-Inúmeros problemas urbanos (buracos em vias públicas, iluminação defeituosa, vazamentos, acúmulo de
-lixo, danos em equipamentos urbanos, ...) existem simultaneamente, no entanto, a cobertura desses problemas é inadequada.
+**Inúmeros problemas urbanos** (buracos em vias públicas, iluminação defeituosa, vazamentos, acúmulo de
+lixo, danos em equipamentos urbanos, ...) existem simultaneamente, no entanto, a **cobertura desses problemas é inadequada**.
 
 ## Justificativa
 
-A falta de transparência e os vários canais distintos que tentam dispersar informações sobre tais problemas são os principais entraves para que essa cobertura seja realizada de forma eficiente e estável.
+A **falta de transparência** e os **vários canais distintos** que tentam dispersar informações sobre tais problemas são os principais entraves para que essa cobertura seja realizada de forma eficiente e estável.
 
 ## Público-alvo (stakeholders)
 
-- Cidadãos
-- Gestores
-- Secretarias de Infraestrutura
-- Funcionários do setor operacional
+- Cidadãos;
+- Gestores;
+- Secretarias de Infraestrutura;
+- Funcionários do setor operacional.
 
 ## Delimitação do escopo
 
-O problema abrange o registro, acompanhamento e consulta de solicitações de manutenção em espaços públicos.
+O problema abrange o **registro, acompanhamento e consulta de solicitações** de manutenção em espaços públicos.
 
 ## Impacto esperado da solução
 
-- Melhorar o canal de comunicação entre a população civil e os prestadores públicos governamentais
-- Agilizar a solução desses problemas
-- Integrar todos os reports da população civil em um único lugar
-- Aumentar a transparência sobre as ações desenvolvidas pelo poder público
+- **Melhorar o canal de comunicação** entre a população civil e os prestadores públicos governamentais;
+- **Agilizar a solução** desses problemas;
+- **Integrar todos os reportes** da população civil em um único lugar;
+- **Aumentar a transparência** sobre as ações desenvolvidas pelo poder público.
 
 
 
