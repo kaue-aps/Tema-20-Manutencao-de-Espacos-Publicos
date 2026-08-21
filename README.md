@@ -28,6 +28,14 @@ No kanban da sprint 1 foram selecionadas todas as user stories de **prioridade M
 
 Desse modo, buscou-se fazer uma distribuição justa de user stories levando em conta primeiro a prioridade e depois o equilíbrio de story points entre as sprints.
 
+## Desenvolvimento dos protótipos
+
+- **Baixa fidelidade**: desenho à mão posteriormente digitalizado por IA
+- **Média fidelidade**: misto
+- **Alta fidelidade**: feito com base nos protótipos anteriores usando Figma
+
+Link do Figma: [clique aqui](https://www.figma.com/design/x9HTBTvQhMZL464I2kPtRF/Trabalho-ES?m=auto&t=6vzCIsKMY1GTlYuY-6)
+
 ## Organização do repositório:
  Esse repositório está organizado em três diretórios principais:
 
