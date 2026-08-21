@@ -31,7 +31,8 @@ A ***falta de transparência*** e os ***vários canais distintos*** que tentam d
 - Cidadãos;
 - Gestores;
 - Secretarias de Infraestrutura;
-- Funcionários do setor operacional.
+- Funcionários do setor operacional;
+- Concessionárias de serviços públicos (Enel, Cagece, ...).
 
 ## Delimitação do escopo
 
@@ -42,7 +43,8 @@ O problema abrange o ***registro, acompanhamento e consulta de solicitações***
 - ***Melhorar o canal de comunicação*** entre a população civil e os prestadores públicos governamentais;
 - ***Agilizar a solução*** desses problemas;
 - ***Integrar todos os reportes*** da população civil em um único lugar;
-- ***Aumentar a transparência*** sobre as ações desenvolvidas pelo poder público.
+- ***Aumentar a transparência*** sobre as ações desenvolvidas pelo poder público;
+- ***Conectar órgãos públicos e concessionárias*** para que haja ***interoperabilidade na resolução dos problemas***.
 
 
 
