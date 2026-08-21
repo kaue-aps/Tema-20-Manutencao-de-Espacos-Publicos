@@ -1,16 +1,3 @@
-3.2 Personas
-Construir pelo menos:
-● Uma persona principal;
-● Uma persona secundária.
-Cada persona deve conter:
-● Nome fictício;
-● Idade;
-● Ocupação/Profissão;
-● Objetivos;
-● Dificuldades;
-● Necessidades;
-● Familiaridade com tecnologia.
-
 # Persona principal
 
 ### Nome: 
@@ -28,13 +15,20 @@ Cada persona deve conter:
 
 ### Dificuldades:
   -   Estacionar seu carro na garagem devido à imperfeições no pavimento;
+  -   Ter vias públicas seguras, limpas e adequadamente conservadas;
+  -   Evitar danos ao seu veículo causados por problemas nas vias;
+  -   Saber se uma solicitação foi registrada e se está sendo atendida;
+  -   Contribuir para a melhoria das condições urbanas de sua comunidade;
   -   Navegar todo dia com sua rua exposta à buracos quebra molas mal feitos;
   -   Mau cheiro devido à manutenção não concluída na rede hidráulica pública;
   -   Não conhece os trâmites burocráticos para reportar um problema adequadamente.<br><br>
 
 ### Necessidades:
   -   Que a prefeitura realize o recapeamento do asfalto e o conserto da calçada logo em frente à sua residência;
-  -   Que a equipe de manutenção finalize a obra no sistema de água e esgoto para acabar com o vazamento e o mau cheiro na porta de casa<br><br>
+  -   Que a equipe de manutenção finalize a obra no sistema de água e esgoto para acabar com o vazamento e o mau cheiro na porta de casa
+  -   Comunicar problemas urbanos de maneira rápida e simples;
+  -   Informar a localização exata da ocorrência;
+  -   Anexar fotos para demonstrar a situação encontrada. <br><br>
 
 ###  Familiaridade com tecnologia:
   -   Usa constantemente o telefone para atividades do dia a dia;
@@ -44,7 +38,7 @@ Cada persona deve conter:
 
 ---
 
-<img width="1300" height="1000" alt="urbanopereira_2" src="https://github.com/user-attachments/assets/81cc3b7f-0491-46bd-94c3-b24d662b3101" />
+<img width="1536" height="1024" alt="urbano_pereira_3" src="https://github.com/user-attachments/assets/c3b04956-793c-49d2-a895-e3a7b757370d" />
 
 ---
 
@@ -88,7 +82,7 @@ Cada persona deve conter:
 
 ---
 
-<img width="1300" height="1000" alt="secretário_01" src="https://github.com/user-attachments/assets/888bdc0b-5b57-4504-b494-563eedbdf4ae" />
+<img width="1536" height="1024" alt="alexandre_02" src="https://github.com/user-attachments/assets/f256d012-7d11-4c5b-b055-b6a2d30a81df" />
 
 ---
 
