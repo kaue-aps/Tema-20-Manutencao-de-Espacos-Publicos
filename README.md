@@ -13,11 +13,12 @@ Tadeu Coêlho de Vasconcelos
 
 ## Atribuições dos membros:
 **Alysson Davi**: Criação de protótipos de nível inicial e médio\
-**Arthur Barros**: Engenheiro de requisitos\
+**Arthur Barros**: Analista de negócio; formulação do problema\
+**Edson Oliveira**: Engenheiro de requisitos\
 **Kauê Aparecido**: Criação de user stories e product backlog\
 **Marcos Vinicius**: Criação de protótipo de alta fidelidade\
 **Miguel Macedo**: Organização dos kanbans e do readme\
-Tadeu Coêlho: Criação de personas e mapeamento de usuário
+**Tadeu Coêlho**: Criação de personas e mapeamento de usuário
 
 ## Justificativa Scrum ou Kanban?
 No presente projeto aproveitamos as qualidades de ambos os métodos, dividindo o trabalho em **2 sprints de 2 semanas de duração cada**, com cada sprint possuindo um quadro kanban para controle de fluxo.
