@@ -14,7 +14,7 @@ Tadeu Coêlho de Vasconcelos
 ## Atribuições dos membros:
 **Alysson Davi**: Criação de protótipos de nível inicial e médio\
 **Arthur Barros**: Engenheiro de requisitos\
-**Kauê Aparecido: Criação de user stories e product backlog\
+**Kauê Aparecido**: Criação de user stories e product backlog\
 **Marcos Vinicius**: Criação de protótipo de alta fidelidade\
 **Miguel Macedo**: Organização dos kanbans e do readme\
 Tadeu Coêlho: Criação de personas e mapeamento de usuário
@@ -29,7 +29,7 @@ No kanban da sprint 1 foram selecionadas todas as user stories de **prioridade M
 Desse modo, buscou-se fazer uma distribuição justa de user stories levando em conta primeiro a prioridade e depois o equilíbrio de story points entre as sprints.
 
 ## Organização do repositório:
- Esse repositório está organizado em três diretórios principais:\
+ Esse repositório está organizado em três diretórios principais:
 
  **docs:** contém os arquivos markdown com user stories, personas, e outras partes do projeto escritas de forma detalhada\
  **evidencias:** contém evidências de partes do projeto desenvolvidas ao longo do tempo\
